@@ -1,1 +1,6 @@
 created text1.txtfile
+ to add your user name in command propmt git config --global user.name"ilaki-ya"
+ to add your email  in command propmt git config --global user.email"ilakiya2302@gmail.com
+Open visual studio code, open folder you could the project folder over there
+look for terminal option and click it
+type gitclone and paste the repo link ,to the git project over there
